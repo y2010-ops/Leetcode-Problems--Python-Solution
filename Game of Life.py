@@ -18,6 +18,7 @@ for r in range(N):
                 board[r][c] = -1
 
         elif board[r][c] == 0:
+            # That means its a dead cell
             if count == 3:
                 board[r][c] = 2
 
