@@ -9,6 +9,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1293-three-consecutive-odds) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,9 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
