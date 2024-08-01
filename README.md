@@ -15,6 +15,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
