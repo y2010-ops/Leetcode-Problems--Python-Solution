@@ -7,6 +7,7 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1333-sort-the-jumbled-numbers) |
@@ -74,4 +75,12 @@ Hey! this repository is containing my leetcode Solutions in python
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
