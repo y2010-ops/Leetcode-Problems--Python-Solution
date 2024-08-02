@@ -8,6 +8,7 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0055-jump-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1333-sort-the-jumbled-numbers) |
@@ -39,6 +40,7 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0055-jump-game) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
@@ -85,4 +87,5 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
