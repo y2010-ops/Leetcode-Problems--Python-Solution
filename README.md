@@ -16,12 +16,14 @@ Hey! this repository is containing my leetcode Solutions in python
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -92,4 +95,8 @@ Hey! this repository is containing my leetcode Solutions in python
 | ------- |
 | [0053-maximum-subarray](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0055-jump-game) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
