@@ -99,4 +99,8 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
