@@ -55,6 +55,7 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Simulation
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -62,6 +63,7 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Math
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2645-pass-the-pillow) |
@@ -76,6 +78,7 @@ Hey! this repository is containing my leetcode Solutions in python
 ## String
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
