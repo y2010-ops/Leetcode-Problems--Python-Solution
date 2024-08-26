@@ -87,6 +87,7 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
 ## Divide and Conquer
@@ -106,4 +107,16 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0476-number-complement) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
