@@ -11,6 +11,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | [0055-jump-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0055-jump-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -119,4 +120,16 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
