@@ -4,14 +4,16 @@ class Solution:
         dist = [0] * n
         dist[start] = 1
         
-        for _ in range(n - 1):
+        for i in range(n - 1):
             updated = False
-            for i, (u, v) in enumerate(edges):
-                if dist[u] * succProb[i] > dist[v]:
-                    dist[v] = dist[u] * succProb[i]
+            for k in range(len(edges)):
+                u, v = edges[k]
+                pathProb = succProb[k]
+                if dist[u] * succProb[k] > dist[v]:
+                    dist[v] = dist[u] * succProb[k]
                     updated = True
-                if dist[v] * succProb[i] > dist[u]:
-                    dist[u] = dist[v] * succProb[i]
+                if dist[v] * succProb[k] > dist[u]:
+                    dist[u] = dist[v] * succProb[k]
                     updated = True
             if not updated:
                 break
