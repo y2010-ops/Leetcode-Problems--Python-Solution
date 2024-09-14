@@ -16,6 +16,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
@@ -24,6 +25,7 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -82,6 +84,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | [0592-fraction-addition-and-subtraction](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2727-number-of-senior-citizens) |
@@ -103,11 +106,13 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
 | ------- |
