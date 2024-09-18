@@ -9,6 +9,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | ------- |
 | [0053-maximum-subarray](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0134-gas-station) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1325-path-with-maximum-probability) |
@@ -50,6 +51,7 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0134-gas-station) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
