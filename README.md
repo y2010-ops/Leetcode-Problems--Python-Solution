@@ -28,6 +28,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-hand-of-straights](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0876-hand-of-straights) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
@@ -89,6 +90,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -143,4 +145,8 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1325-path-with-maximum-probability) |
+## Backtracking
+|  |
+| ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
