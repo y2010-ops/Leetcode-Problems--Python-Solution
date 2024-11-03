@@ -27,6 +27,7 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0876-hand-of-straights) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -36,6 +37,7 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0768-partition-labels) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -56,6 +58,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | ------- |
 | [0055-jump-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0134-gas-station) |
+| [0768-partition-labels](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0876-hand-of-straights) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
@@ -89,6 +92,7 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0592-fraction-addition-and-subtraction) |
+| [0768-partition-labels](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0768-partition-labels) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1720-crawler-log-folder) |
