@@ -23,6 +23,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | [2163-kth-distinct-string-in-an-array](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/2727-number-of-senior-citizens) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,4 +154,8 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
