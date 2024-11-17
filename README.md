@@ -12,6 +12,7 @@ Hey! this repository is containing my leetcode Solutions in python
 | [0134-gas-station](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0134-gas-station) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-hand-of-straights](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0876-hand-of-straights) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1293-three-consecutive-odds](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1333-sort-the-jumbled-numbers) |
@@ -44,6 +45,7 @@ Hey! this repository is containing my leetcode Solutions in python
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -145,6 +148,7 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -157,5 +161,14 @@ Hey! this repository is containing my leetcode Solutions in python
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/y2010-ops/Leetcode-Problems--Python-Solution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
